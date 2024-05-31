@@ -1,11 +1,20 @@
-## Olá!👋  Seja Bem-Vindo ao meu perfil.
+## [ENG-US] Hello!👋  Welcome my perfil.
 
-- 🔭 Eu atualmente trabalho na área de Suporte N1 - Mas querendo se tornar Devops 
-- 🌱 Eu atualmente estou estudando Git e AWS
-- 👯 Confira alguns dos meus Repositórios, tenho como foco sempre a linguagem Python realizando automatizações.
+**about me:**
+  - 🔭 I currently work in the L1 Support area - However I am studying to become Devops 
+  - 🌱 I'm currently studying Git and AWS
+  - 👯 Check out some of my Repositories, I always focus on the Python language performing automations.
+
+  
+## [BR-PORT] Olá!👋  Seja Bem-Vindo ao meu perfil.
+
+**sobre mim:**
+  - 🔭 Eu atualmente trabalho na área de Suporte N1 - Porém estou estudando para se tornar Devops 
+  - 📖 Eu atualmente estou estudando Git e AWS
+  - 👯 Confira alguns dos meus Repositórios, tenho como foco sempre a linguagem Python realizando automatizações.
+
 ##
 
-![nz-cloud GitHub stats](https://github-readme-stats.vercel.app/api?username=nz-cloud\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nz-cloud\&layout=compact) 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
