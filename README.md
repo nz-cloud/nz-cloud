@@ -1,7 +1,7 @@
 # [ENG-US] Hello!👋  Welcome my perfil.
 
 **about me:**
-  - 🔭 I currently work in the N1 Support area - But I'm studying to become a Devops
+  - 🔭 I currently work in the N1 Support area - However, I am studying to join the Devops area
   - 📖 I'm currently studying Git and AWS
   - 🧐 Check out some of my Repositories, I always focus on the Python language performing automations.
 
@@ -9,8 +9,8 @@
 # [BR-PORT] Olá!👋  Seja Bem-Vindo ao meu perfil.
 
 **sobre mim:**
-  - 🔭 Eu atualmente trabalho na área de Suporte N1 - Porém estou estudando para me tornar um Devops 
-  - 📖 Eu atualmente estou estudando Git e AWS
+  - 🔭 Eu atualmente trabalho na área de Suporte N1 - Porém, estou estudando para ingressar na área de Devops; 
+  - 📖 Eu atualmente estou estudando Git e AWS;
   - 🧐 Confira alguns dos meus Repositórios, tenho como foco sempre a linguagem Python realizando automatizações.
 
 ## 
