@@ -6,7 +6,7 @@
   - 🧐 Check out some of my Repositories, I always focus on the Python language performing automations.
 
   
-# [BR-PORT] Olá!👋  Seja Bem-Vindo ao meu perfil.
+# [PT-BR] Olá!👋  Seja Bem-Vindo ao meu perfil.
 
 **sobre mim:**
   - 🔭 Eu atualmente trabalho na área de Suporte N1 - Porém, estou estudando para ingressar na área de Machine Learning; 
