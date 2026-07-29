@@ -1,17 +1,17 @@
 # [ENG-US] Hello!👋  Welcome my perfil.
 
 **about me:**
-  - 🔭 I currently work in the N1 Support area - However, I am studying to become a Python developer.
-  - 📖 I'm currently studying Data Structures and Algorithms.
-  - 🧐 Check out some of my Repositories, I always focus on the Python language.
+  - 🔭 I currently work in the IT Infrastructure area.
+  - 📖 I'm currently studying Windows Server and Active Directory.
+  - 🧐 Check out some of my repositories.
 
   
 # [PT-BR] Olá!👋  Seja Bem-Vindo ao meu perfil.
 
 **sobre mim:**
-  - 🔭 Eu atualmente trabalho na área de Suporte N1 - Porém, estou estudando para me tornar um desenvolvedor Python; 
-  - 📖 Eu atualmente estou estudando Estrutura de dados e Algoritmos.
-  - 🧐 Confira alguns dos meus Repositórios, tenho como foco sempre a linguagem Python.
+  - 🔭 Eu atualmente trabalho na área de Infraestrutura de TI. 
+  - 📖 Eu atualmente estou estudando Windows Server e Active Directory.
+  - 🧐 Confira alguns dos meus repositórios.
 
 ## 
 
